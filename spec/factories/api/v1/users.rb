@@ -1,4 +1,4 @@
-require 'factory_girl_rails'
+require 'rails_helper'
 
 FactoryGirl.define do
   factory :user do
